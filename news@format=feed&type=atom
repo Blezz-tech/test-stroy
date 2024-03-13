@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Новости</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.m-stroy.org"/>
+	<id>http://www.m-stroy.org/news</id>
+	<updated>2024-03-07T18:12:30+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.m-stroy.org/news?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Выставка «Строительная Техника и Технологии» 2016</title>
+		<link rel="alternate" type="text/html" href="http://www.m-stroy.org/news/52-novost1-3"/>
+		<published>2016-03-28T14:22:00+00:00</published>
+		<updated>2016-03-28T14:22:00+00:00</updated>
+		<id>http://www.m-stroy.org/news/52-novost1-3</id>
+		<author>
+			<name>Super User</name>
+			<email>m-stroy.org@yandex.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;СТТ – выставка строительной техники и оборудования №1 в России и странах СНГ.,&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;СТТ – выставка строительной техники и оборудования №1 в России и странах СНГ.,&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Новости" />
+	</entry>
+	<entry>
+		<title>Международной конференции «Энергоинтеграция-2013» </title>
+		<link rel="alternate" type="text/html" href="http://www.m-stroy.org/news/36-novost1"/>
+		<published>2013-05-20T13:22:00+00:00</published>
+		<updated>2013-05-20T13:22:00+00:00</updated>
+		<id>http://www.m-stroy.org/news/36-novost1</id>
+		<author>
+			<name>Super User</name>
+			<email>m-stroy.org@yandex.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Строительная компания ООО «МегаСтрой» приняла участие в III Международной конференции «Энергоинтеграция-2013» ,&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Строительная компания ООО «МегаСтрой» приняла участие в III Международной конференции «Энергоинтеграция-2013» ,&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Новости" />
+	</entry>
+	<entry>
+		<title>Реконструкция транспортной развязки МКАД с Дмитровским шоссе</title>
+		<link rel="alternate" type="text/html" href="http://www.m-stroy.org/news/37-novost2"/>
+		<published>2013-04-20T13:26:00+00:00</published>
+		<updated>2013-04-20T13:26:00+00:00</updated>
+		<id>http://www.m-stroy.org/news/37-novost2</id>
+		<author>
+			<name>Super User</name>
+			<email>m-stroy.org@yandex.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;images/dmitrovka.jpg&quot; border=&quot;0&quot; width=&quot;552&quot; height=&quot;310&quot; style=&quot;float: left; margin-right: 20px; margin-bottom: 20px;&quot; /&gt;Строительная компания ООО «МегаСтрой» успешно завершила строительство очередного объекта капитального строительства: Реконструкция Дмитровского шоссе.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;images/dmitrovka.jpg&quot; border=&quot;0&quot; width=&quot;552&quot; height=&quot;310&quot; style=&quot;float: left; margin-right: 20px; margin-bottom: 20px;&quot; /&gt;Строительная компания ООО «МегаСтрой» успешно завершила строительство очередного объекта капитального строительства: Реконструкция Дмитровского шоссе.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Новости" />
+	</entry>
+</feed>

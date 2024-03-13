@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Новости</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.m-stroy.org/news</link>
+		<lastBuildDate>Thu, 07 Mar 2024 18:12:30 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.m-stroy.org/news?format=feed&amp;type=rss"/>
+		<language>ru-ru</language>
+		<item>
+			<title>Выставка «Строительная Техника и Технологии» 2016</title>
+			<link>http://www.m-stroy.org/news/52-novost1-3</link>
+			<guid isPermaLink="true">http://www.m-stroy.org/news/52-novost1-3</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: justify;">СТТ – выставка строительной техники и оборудования №1 в России и странах СНГ.,</p>
+</div>]]></description>
+			<author>m-stroy.org@yandex.ru (Super User)</author>
+			<category>Новости</category>
+			<pubDate>Mon, 28 Mar 2016 14:22:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Международной конференции «Энергоинтеграция-2013» </title>
+			<link>http://www.m-stroy.org/news/36-novost1</link>
+			<guid isPermaLink="true">http://www.m-stroy.org/news/36-novost1</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: justify;">Строительная компания ООО «МегаСтрой» приняла участие в III Международной конференции «Энергоинтеграция-2013» ,</p>
+</div>]]></description>
+			<author>m-stroy.org@yandex.ru (Super User)</author>
+			<category>Новости</category>
+			<pubDate>Mon, 20 May 2013 13:22:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Реконструкция транспортной развязки МКАД с Дмитровским шоссе</title>
+			<link>http://www.m-stroy.org/news/37-novost2</link>
+			<guid isPermaLink="true">http://www.m-stroy.org/news/37-novost2</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: justify;"><img src="http://www.m-stroy.org/images/dmitrovka.jpg" border="0" width="552" height="310" style="float: left; margin-right: 20px; margin-bottom: 20px;" />Строительная компания ООО «МегаСтрой» успешно завершила строительство очередного объекта капитального строительства: Реконструкция Дмитровского шоссе.</p>
+</div>]]></description>
+			<author>m-stroy.org@yandex.ru (Super User)</author>
+			<category>Новости</category>
+			<pubDate>Sat, 20 Apr 2013 13:26:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
